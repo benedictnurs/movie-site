@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "jsx": "react-jsx", // or "react" if using an older React version
     "paths": {
       "@/*": ["./src/*"]
     }
